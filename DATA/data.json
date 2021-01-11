@@ -1,0 +1,20 @@
+[
+    {
+        "pais": "Belice",
+        "short": "BC",
+        "gelocation": {
+            "Longitud": "-88.7500000",
+            "Latitud": "17.2500000"
+        }
+    },
+    {
+        "pais": "Guatemala",
+        "short": "GL",
+        "gelocation": {
+            "Longitud": "-90.2500000",
+            "Latitud": "15.5000000"
+        }
+    }
+
+
+]
